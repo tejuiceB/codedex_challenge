@@ -178,7 +178,7 @@ export default function Contact() {
                   <div className="text-5xl">📧</div>
                   <div>
                     <h4 className="text-2xl font-bold text-[#ff6b35]">Email</h4>
-                    <p className="text-lg text-primary">tejasbhurbhure06@gmail.com</p>
+                    <p className="text-lg text-primary">tejasbhurbhure@gmail.com</p>
                   </div>
                 </div>
               </a>
@@ -191,7 +191,7 @@ export default function Contact() {
                   <div className="text-5xl">📞</div>
                   <div>
                     <h4 className="text-2xl font-bold text-[#ff6b35]">Phone</h4>
-                    <p className="text-lg text-primary">+91 9373483034</p>
+                    <p className="text-lg text-primary">+91 xxxxxxxxxx</p>
                   </div>
                 </div>
               </a>
